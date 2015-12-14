@@ -5,6 +5,7 @@ Don't you wish JavaScript was more powerful? Have you ever launched the develope
 * ...
 
 Fear no more!
+
 1. Load **Temples**: `(document.body || document.head || document.documentElement).insertAdjacentHTML('beforeend', '<script src="https://rawgit.com/Unihedro/Temples/master/script.js"></script>')`
 2. *???*
 3. Profit!!!
